@@ -1,0 +1,21 @@
+# NLP 和文本處理
+spacy==3.7.2
+nltk==3.8.1
+transformers==4.36.2
+torch==2.1.1
+
+# 機器學習
+scikit-learn==1.3.2
+numpy==1.24.3
+pandas==1.5.3
+
+# 數據存儲
+sqlalchemy==2.0.23
+
+# Web 框架
+fastapi==0.104.1
+uvicorn==0.24.0
+python-dotenv==1.0.0
+
+# 工具
+python-json-logger==2.0.7
